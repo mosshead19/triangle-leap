@@ -9,7 +9,7 @@ namespace traingleAreaCal
     internal class Program
     {
         // Area = √s(s - a)(s - b)(s - c)
-        //where s is half the perimeter, or(a + b + c)/2
+        //where s = half the perimeter, or(a + b + c)/2
 
         public static double triangleArea(double a, double b, double c)
         {
